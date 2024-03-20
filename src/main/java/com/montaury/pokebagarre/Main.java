@@ -7,5 +7,6 @@ public class Main {
 
   public static void main(String[] args) {
     Application.launch(PokeBagarreApp.class);
+    System.out.print("pouet");
   }
 }
